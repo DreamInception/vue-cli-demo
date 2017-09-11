@@ -1,6 +1,6 @@
 # vue-cli-demo
 
->  vue multi application : vue + webpack + axio + karam + chai + mocha 
+>  vue multipage application : vue + webpack + axio + karam + chai + mocha 
 
 ## Build Setup
 
